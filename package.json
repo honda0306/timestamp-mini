@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-mini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honda0306/timestamp-mini.git"
+  },
+  "author": "Chris Honda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honda0306/timestamp-mini/issues"
+  },
+  "homepage": "https://github.com/honda0306/timestamp-mini#readme"
+}
